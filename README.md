@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi 👋! My name is Aaron and I'm a web programmer... well, I'm just learning...<br>//     //     //<br>¡Hola 👋! Me llamo Aaron y soy programador web... bueno, estoy aprendiendo...</h2>
+<h2 align="center">Hi 👋! Im Aaron and I'm a web programmer... well, I'm just learning...<br>//     //     //<br>¡Hola 👋! Soy Aaron y soy programador web... bueno, estoy aprendiendo...</h2>
 
 ###
 
